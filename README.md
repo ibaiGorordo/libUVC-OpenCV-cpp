@@ -16,3 +16,4 @@ sudo ./sample
 
 # Required libraries
 * libusb: ```sudo apt install libusb-1.0-0-dev```
+* OpenCV: Built from source
