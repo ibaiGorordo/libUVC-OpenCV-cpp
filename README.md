@@ -15,5 +15,5 @@ sudo ./sample
 ```
 
 # Required libraries
-* libusb: ```sudo apt install libusb-1.0-0-dev```
-* OpenCV: Built from source
+* **libusb**: ```sudo apt install libusb-1.0-0-dev```
+* **OpenCV**: Built from source (tested on OpenCV 4.5.0)
