@@ -1,4 +1,4 @@
-# libUVC-OpenCV-Cpp
+# libUVC-OpenCV-cpp
 Example script to capture images from USB cameras using the libUVC library and OpenCV in C++.The example runs for 10 seconds and it automatically stops.
 **Tested in Ubuntu 20.04.1 LTS**
 
